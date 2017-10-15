@@ -9,7 +9,7 @@
     button_dummy of the model sale.order to record automatically a negation
     (product_rejected) for products without stock.
     This method is executed when clicking on button (update) in sale orders.''',
-    'version': '9.0.0.1.0',
+    'version': '9.0.1.0.0',
     'category': 'Sales',
     'author': 'Humanytek',
     'website': "http://www.humanytek.com",
